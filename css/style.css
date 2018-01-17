@@ -54,7 +54,7 @@ p {
 	text-align: right;
 }
 
-.logo a {
+.logo {
 	border: 5px;
 	border-style: solid;
 	border-color: rgb(204,204,204)
@@ -67,4 +67,9 @@ p {
 
 #picture a:hover {
 	text-decoration: underline;
+}
+
+
+.logo:hover {
+	border: 5px rgb(111,127,122) solid; 
 }

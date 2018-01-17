@@ -54,7 +54,7 @@ p {
 	text-align: right;
 }
 
-.logo {
+.logo a {
 	border: 5px;
 	border-style: solid;
 	border-color: rgb(204,204,204)
@@ -62,7 +62,7 @@ p {
 
 #picture a {
 	color: #1783bb;
-	text-decoration: none; 
+	text-decoration: none;
 }
 
 #picture a:hover {

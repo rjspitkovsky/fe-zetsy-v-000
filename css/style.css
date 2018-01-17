@@ -22,11 +22,15 @@ body {
 h1 {
 	font-family: "Baskerville", serif;
 	color: rgb(147,175,166);
-	font-size: 80px;
-	margin-top: 0px;
-	margin-bottom: 12px;
+	font-size: 5em;
+	margin: 0 0 5px;
+	font-weight: normal; 
+
+
+	/*margin-top: 0px;
+	margin-bottom: 12px;*/
 	padding-bottom: 10px;
-	border-bottom: 1px, solid, #ccc; 
+	border-bottom: 1px, solid, #ccc;
 }
 
 h2 {

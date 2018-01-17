@@ -60,6 +60,11 @@ p {
 	border-color: rgb(204,204,204)
 }
 
-.logo > a:hover {
-	border: 5px rgb(111,127,122) solid;
+#picture a {
+	color: #1783bb;
+	text-decoration: none; 
+}
+
+#picture a:hover {
+	text-decoration: underline;
 }

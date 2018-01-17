@@ -60,7 +60,11 @@ p {
 	border-color: rgb(204,204,204)
 }
 
-.logo a {
+h2 a {
 	color: #1783bb;
 	text-decoration: none;
+}
+
+.logo a:hover {
+
 }

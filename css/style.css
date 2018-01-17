@@ -24,7 +24,7 @@ h1 {
 	color: rgb(147,175,166);
 	font-size: 5em;
 	margin: 0 0 5px;
-	
+
 
 
 	/*margin-top: 0px;
@@ -58,4 +58,9 @@ p {
 	border: 5px;
 	border-style: solid;
 	border-color: rgb(204,204,204)
+}
+
+.logo a {
+	color: #1783bb;
+	text-decoration: none;
 }
